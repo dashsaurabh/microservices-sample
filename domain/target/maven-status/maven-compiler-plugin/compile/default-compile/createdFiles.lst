@@ -1,0 +1,4 @@
+com\example\ariane\domain\commands\VehicleCreateDTO.class
+com\example\ariane\domain\services\VehicleQueryService.class
+com\example\ariane\domain\aggregates\Money.class
+com\example\ariane\domain\aggregates\VehicleAggregate.class
